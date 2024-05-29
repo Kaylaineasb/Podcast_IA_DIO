@@ -1,0 +1,59 @@
+Nome do podcast: Píxeis e Ciência: O Universo do Design Web
+Roteiro:
+### [INTRODUÇÃO]
+
+Fala, galera nerd! Tudo bem com vocês? Eu sou a Kaylaine, e hoje vamos embarcar em uma jornada fascinante pelo universo do design web! Vamos explorar os segredos escondidos dos píxeis e descobrir como criar experiências incríveis para a web. Fique ligado porque esse é o "Píxeis e Ciência: O Universo do Design Web"!
+
+### [CURIOSIDADE 1]
+
+Vamos começar com uma curiosidade bacana sobre web design! Você sabia que o CSS, aquela linguagem que usamos para dar estilo às nossas páginas, nasceu em 1996? Pois é! Antes disso, as páginas eram todas estáticas e sem graça. Com a chegada do CSS, os desenvolvedores passaram a ter a possibilidade de criar layouts incríveis, cores vibrantes e animações de deixar qualquer um de queixo caído. Foi um verdadeiro divisor de águas no mundo do desenvolvimento web!
+
+### [CURIOSIDADE 2]
+
+Agora, vou falar de uma ferramenta que é um verdadeiro salva-vidas para quem está começando no front end: o Figma! Ele é um editor gráfico online que permite criar protótipos interativos e colaborativos. Sabe o que é mais legal? Dá para trabalhar em tempo real com outros desenvolvedores e designers, tornando o processo de criação muito mais dinâmico e eficiente. E o melhor de tudo, é super intuitivo e fácil de usar, perfeito para quem está começando!
+
+### [FINALIZAÇÃO]
+
+E aí, curtiu essas dicas e curiosidades sobre o mundo do design web? Espero que sim! Não se esqueça de seguir a gente nas redes sociais para não perder nenhuma novidade. Eu sou a Kaylaine e esse foi o podcast dessa semana. Até a próxima, galera nerd! Tchau!
+
+Prompts utilizados:
+1.
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
+
+O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nomes relacionados a série the big bang theory
+- O nome deve conter alguma palavra forte que remeta a front end
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
+- Não utilize a palavra frontend no nome nem qualquer variação dela
+2.
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "Píxeis e Ciência: O Universo do Design Web" e tem foco em frontend,  com o público alvo de iniciantes em frontend
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de web design
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends no web design
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Kaylaine e esse foi o podcast dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Kaylaine
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
